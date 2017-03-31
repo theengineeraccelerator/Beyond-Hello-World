@@ -640,7 +640,7 @@ will be further integrated into the Sparkfun Library for other footprints.  It c
 </package>
 <package name="CPOL-RADIAL-10UF-25V">
 <wire x1="-0.645" y1="0.92" x2="-1.915" y2="0.92" width="0.2032" layer="21"/>
-<circle x="0" y="0" radius="2.5" width="0.2032" layer="21"/>
+<circle x="0" y="0" radius="3.175" width="0.2032" layer="21"/>
 <pad name="1" x="1.27" y="0" drill="0.8" diameter="1.651" shape="square"/>
 <pad name="2" x="-1.27" y="0" drill="0.9" diameter="1.651"/>
 <text x="-0.889" y="1.524" size="0.4064" layer="25">&gt;Name</text>
